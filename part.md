@@ -1,0 +1,1 @@
+Today i want to try creating melodies or rather simple music using python, i hope this is the start of something bigger than what i'm seeing of it now. 
